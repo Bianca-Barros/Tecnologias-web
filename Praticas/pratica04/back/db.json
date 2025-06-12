@@ -1,0 +1,10 @@
+{
+
+"contatos" : [
+{"id": "1a2b", "nome": "Jose", "telefone": "99999-9999" },
+{"id": "2b3c", "nome": "Joana", "telefone": "99999-9999" },
+{"id": "3c4d", "nome": "Lucia", "telefone": "99999-9999" },
+{"id": "4d5e", "nome": "Pedro", "telefone": "99999-9999" },
+{"id": "5e6f", "nome": "Maria", "telefone": "99999-9999" }
+]
+}
